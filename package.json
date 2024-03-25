@@ -1,7 +1,7 @@
 {
   "name": "project1",
   "version": "1.0.0",
-  "description": "**Due Mon Feb 19, 11:59pm ET**",
+  "description": " ",
   "main": "words.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
